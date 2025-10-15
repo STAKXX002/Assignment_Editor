@@ -7,8 +7,7 @@ It includes preprocessing steps for better accuracy and automatically saves resu
 
 ##  Requirements
 ```bash
-pip install pytesseract pdf2image opencv-python-headless
-```
+pip install opencv-python pytesseract numpy Pillow pdf2image```
 
 ---
 

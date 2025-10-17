@@ -4,12 +4,12 @@
 
 ---
 
-## 🚀 Project Type
+##  Project Type
 Python PDF / Document Editing Tool
 
 ---
 
-## 📖 Description
+##  Description
 **Assignment Editor** is a Python tool designed for students and educators to handle PDF assignments easily. It allows users to **extract, edit, and organize PDF content** efficiently, saving time and reducing manual effort.
 
 Key use cases:
@@ -19,7 +19,7 @@ Key use cases:
 
 ---
 
-## ✨ Features
+##  Features
 - Load and view PDF files
 - Extract text and images from PDFs
 - Edit and modify content
@@ -42,7 +42,7 @@ Copy code
 pip install -r requirements.txt
 Make sure you have Python 3.x installed.
 
-💻 Usage Instructions
+ Usage Instructions
 Place your PDFs in the input folder or provide their path in the script.
 
 Run the editor
@@ -68,7 +68,7 @@ print(text_content)
 
 # Save modified PDF
 editor.save("output.pdf")
-📂 Project Structure
+ Project Structure
 csharp
 Copy code
 Assignment_Editor/
@@ -79,14 +79,14 @@ Assignment_Editor/
 ├── screenshots/                # Example screenshots
 ├── README.md                   # This file
 └── LICENSE                     # Project license
-🎨 Screenshots / Demo
+ Screenshots / Demo
 Main Interface:
 
 PDF Editing Example:
 
 Replace these images with actual screenshots of your project.
 
-⚙ Dependencies / Requirements
+ Dependencies / Requirements
 Python 3.x
 
 PyPDF2 (PyPDF2)
@@ -100,7 +100,7 @@ Install all dependencies:
 bash
 Copy code
 pip install -r requirements.txt
-🤝 Contributing Guidelines
+ Contributing Guidelines
 Fork the repository.
 
 Create a feature branch:
@@ -120,10 +120,10 @@ Copy code
 git push origin feature/my-feature
 Open a Pull Request for review.
 
-📜 License
+ License
 This project is licensed under the MIT License. See LICENSE for details.
 
-📝 Additional Notes
+ Additional Notes
 Make sure Python 3.x is installed and added to your system PATH.
 
 Tested on Windows; may require minor adjustments for Linux/macOS.
